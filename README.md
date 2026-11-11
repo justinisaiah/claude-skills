@@ -11,6 +11,7 @@ frontmatter (`name` and `description`) plus markdown instructions, and optionall
 | Skill | What it does |
 |---|---|
 | [`bogleheads-wiki`](./bogleheads-wiki) | Answers investing and personal-finance questions by looking up and citing pages on the Bogleheads wiki, and by reasoning inside the Boglehead framework. |
+| [`security-audit`](./security-audit) | Fork of [Cloudflare's security-audit skill](https://github.com/cloudflare/security-audit-skill) (MIT). Security guidance and multi-phase, independently verified vulnerability audits of codebases. See [`UPSTREAM.md`](./security-audit/UPSTREAM.md). |
 
 ## Installing
 
@@ -46,4 +47,5 @@ cp -r bogleheads-wiki ~/.claude/skills/
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+MIT — see [LICENSE](./LICENSE). Forked skills keep their upstream license and copyright
+notice in their own folder (e.g. [`security-audit/LICENSE`](./security-audit/LICENSE)).
