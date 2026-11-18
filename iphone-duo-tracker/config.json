@@ -1,0 +1,13 @@
+{
+  "zip_code": "80206",
+  "interval_seconds": 300,
+  "ntfy_topic": "",
+  "stores": [
+    {"name": "Apple Cherry Creek", "store_number": "TODO_CHERRY_CREEK_R_NUMBER"},
+    {"name": "Apple Flatiron Crossing", "store_number": "TODO_FLATIRON_CROSSING_R_NUMBER"},
+    {"name": "Apple Twenty Ninth Street", "store_number": "TODO_TWENTY_NINTH_ST_R_NUMBER"}
+  ],
+  "models": [
+    {"label": "iPhone Duo 256GB", "part_number": "TODO_DUO_256GB_PART_NUMBER"}
+  ]
+}
